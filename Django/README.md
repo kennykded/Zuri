@@ -14,6 +14,6 @@ Create a new Django project. Use your ZuriBoard username as the name of the proj
 
  
 
-Push your project to a new Public GitHub repository and submit the URL
+Push your project to a new Public GitHub repository and submit the URL.
 
  
