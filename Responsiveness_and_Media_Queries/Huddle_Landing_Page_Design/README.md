@@ -1,1 +1,1 @@
-his is the Huddle Landing Page Design.
+This is the Huddle Landing Page Design.
